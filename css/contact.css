@@ -1,0 +1,27 @@
+
+
+.container{
+content: "";
+position: absolute;
+background: url('../img/b3.jpg') no-repeat center center/cover;
+height: 100%;
+width: 100%;
+
+}
+.contact-heading{
+    color: coral;
+}
+.contact-heading h1{
+    display: flex;
+    justify-content: center;
+    align-content: center; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem; 
+}
+.list{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}

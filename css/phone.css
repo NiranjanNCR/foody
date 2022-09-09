@@ -1,0 +1,41 @@
+/*Navigation*/
+#navbar{
+    flex-direction: column;
+    padding: 0%;
+
+}
+
+/*Home section*/
+#Home{
+height: 500px;
+}
+#Home::before{
+    height: 300px;
+}
+#Home .btn{
+ margin: 12px;
+}
+.h.primary{
+    height: 10px;
+
+}
+/*services section */
+#services{
+    
+    flex-direction: column;
+}
+#services .box {
+    border: 2px solid brown;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    width: 600px;
+    height: 500px;
+    background-color: antiquewhite;
+}
+/*client section*/
+#clients{
+
+}
+
+/*contact section */

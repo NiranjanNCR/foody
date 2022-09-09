@@ -1,0 +1,27 @@
+.container{
+    content: "";
+    position: absolute;
+    background: url('../img/b5.jpg') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    
+    }
+.heading{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: rgb(6, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    align-content:center ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+
+}
+.list li{
+    color: rgb(22, 8, 116);
+}
